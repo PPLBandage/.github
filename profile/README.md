@@ -6,4 +6,4 @@
 ### Место, где любой найдет дизайн по вкусу.
 
 [Главная](https://pplbandage.ru) | [Мастерская](https://pplbandage.ru/workshop) | [Личный кабинет](https://pplbandage.ru/me)  
-by AndcoolSystems
+
