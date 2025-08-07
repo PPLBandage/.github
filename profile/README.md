@@ -1,5 +1,3 @@
-# PPLBandage Project
-
 <img src="static/person.png" align="right" height="300" />
 
 # Огромная библиотека повязок Пепеленда
